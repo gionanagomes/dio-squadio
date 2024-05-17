@@ -1,16 +1,20 @@
-produto_1 = 10
-produto_2 = 20
+# adição
+print(1 + 1)
 
-print(produto_1 + produto_2 + 3.5)
-print(produto_1 - produto_2)
-print(produto_1 / produto_2)
-print(produto_1 // produto_2 - 6.2)
-print(produto_1 * produto_2)
-print(produto_1 % produto_2)
-print(produto_1 ** produto_2)
+# subtração
+print(10 - 2)
 
-x = (10 + 5) + 4
-y = 10 / 2 + (25 + 2) - (2 ** 2)
+# multiplicação
+print(4 * 3)
 
-print(x)
-print(y)
+# divisão
+print(12 / 3)
+
+# divisão inteira
+print(12 // 2)
+
+# módulo
+print(10 % 3)
+
+# exponenciação
+print(2 ** 3)
